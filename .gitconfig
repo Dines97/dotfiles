@@ -1,0 +1,7 @@
+[user]
+	email = kaynar.denis@gmail.com
+	name = Denis Kaynar
+[credential]
+	helper = store
+[core]
+	excludesfile = /home/denis/.gitignore
